@@ -14,8 +14,6 @@ I'm a Computer Science student who enjoys coding, AI, machine learning, and soft
 - 🧠 Exploring NumPy, Pandas, Matplotlib, and machine learning
 - 🛠️ Building projects to improve my coding and problem-solving skills
 - 📚 Interested in AI/ML research and engineering
-- 🎯 Hoping to pursue a Master's degree in Computer Science or AI/ML
-- 🌍 Interested in studying abroad and working on cool, meaningful tech
 
 ---
 
