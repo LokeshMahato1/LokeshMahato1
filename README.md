@@ -1,7 +1,9 @@
 Hey, I'm Lokesh 👋
 
 🎓 Computer Science student
+
 💻 Learning Python, software development, and AI/ML
+
 🚀 Building projects and picking up new skills along the way
 
 ---
